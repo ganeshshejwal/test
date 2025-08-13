@@ -13,3 +13,6 @@ This is line 12.
 This is line 7. --- IGNORE ---
 This is line 8. --- IGNORE ---
 End of recent edits
+This is line 7. --- IGNORE ---
+This is line 8. --- IGNORE ---
+End of recent edits
